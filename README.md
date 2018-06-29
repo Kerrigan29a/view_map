@@ -17,3 +17,6 @@ make run_miller50 SCALE=1
 
 make run ARGS="-w world-50m.txt -p flat -s 0.5"
 ```
+
+# Screenshot
+![screenshot](screenshot.png)
